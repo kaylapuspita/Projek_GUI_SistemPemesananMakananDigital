@@ -1,55 +1,76 @@
-##🍽️ SISTEM PEMESANAN MAKANAN DIGITAL UNTUK WARUNG MAKAN
-
-🧠 Dibuat dengan Java OOP dan GUI (Swing) — Praktis, Cepat, dan Modern!
+🏷️ # SISTEM PEMESANAN MAKANAN DIGITAL UNTUK WARUNG MAKAN
+🔧 Berbasis Java OOP dan GUI (Swing)
 
 
 
 🎯 Apa Itu Proyek Ini?
-Proyek ini adalah aplikasi desktop sederhana untuk membantu proses pemesanan makanan di warung makan.
-Dibangun dengan pendekatan Object Oriented Programming (OOP) dan antarmuka grafis Java Swing GUI, aplikasi ini dirancang untuk memberikan pengalaman kasir yang lebih cepat, efisien, dan bebas dari keribetan tulis-menulis manual!
+Proyek ini adalah aplikasi desktop sederhana yang dibuat untuk membantu proses pemesanan makanan di warung makan.
+
+Aplikasi ini dibangun menggunakan pendekatan Object Oriented Programming (OOP) dan tampilan Graphical User Interface (GUI) dari Java.
+
+Tujuan utamanya adalah menciptakan sistem yang mudah digunakan, praktis, dan mempercepat proses transaksi secara digital.
+
 
 
 
 
 💡 Fitur Unggulan
-✨ Input Data Pelanggan – Catat siapa saja pelanggan yang memesan.
+🍽️ Input Data Pelanggan
+➤ Catat informasi pelanggan dengan rapi dan efisien.
 
-🍜 Manajemen Menu – Tambah, edit, atau hapus daftar makanan/minuman dengan harga.
+🍜 Manajemen Menu
+➤ Tambah, ubah, dan hapus daftar makanan/minuman beserta harga.
 
-👩‍💼 Data Kasir – Identifikasi siapa yang bertugas saat transaksi berlangsung.
+👩‍💼 Data Kasir
+➤ Kelola identitas kasir yang bertugas melakukan transaksi.
 
-🧾 Pencatatan Transaksi – Pilih pelanggan, menu, dan kasir ➜ masukkan jumlah ➜ total otomatis ➜ simpan!
+🧾 Pencatatan Transaksi
+➤ Pilih pelanggan, menu, dan kasir.
+➤ Masukkan jumlah pesanan, hitung otomatis totalnya, lalu simpan.
 
-🔗 Relasi Antar Tabel – Dibangun dengan struktur database MySQL yang saling terhubung (relasional) antara pelanggan, menu, kasir, dan transaksi.
+🔗 Relasi Antar Tabel
+➤ Menggunakan database MySQL dengan relasi antara tabel pelanggan, menu, kasir, dan transaksi.
 
-🖥️ Antarmuka GUI Sederhana & Bersih – Cocok digunakan oleh siapa saja, bahkan yang belum terbiasa dengan sistem digital.
+🖥️ Antarmuka GUI Sederhana & Bersih
+➤ Mudah digunakan, bahkan oleh pengguna awam sekalipun.
+
 
 
 
 
 🛠️ Teknologi yang Digunakan
-☕ Java — Bahasa pemrograman utama dengan paradigma OOP
+☕ Java – Bahasa pemrograman utama.
 
-🧱 Swing — Untuk tampilan GUI desktop
+🧱 Swing – Untuk antarmuka pengguna grafis (GUI).
 
-🗃️ MySQL — Sebagai database relasional
+🗃️ MySQL – Database relasional tempat menyimpan data.
 
-🔌 JDBC — Untuk koneksi Java ke database
+🔌 JDBC – Jembatan antara Java dan MySQL.
 
-🧠 NetBeans IDE — Lingkungan pengembangan aplikasi
+🧠 NetBeans IDE – Lingkungan pengembangan yang digunakan.
+
 
 
 
 
 🚀 Mengapa Proyek Ini Penting?
-Di era digital, warung makan pun bisa naik kelas!
-Dengan sistem ini, pencatatan jadi rapi, transaksi lebih cepat, dan pemilik usaha bisa melihat riwayat penjualan dengan mudah.
-Bahkan tanpa koneksi internet, aplikasi ini tetap bisa berjalan karena bersifat desktop offline. 😎
+Di era serba digital, warung makan juga bisa ikut naik level! 🚀
+
+Dengan aplikasi ini, proses transaksi menjadi lebih cepat dan rapi.
+
+Tidak perlu mencatat manual di kertas, cukup input data dan semua tersimpan otomatis di database.
+
+Aplikasi ini juga bisa berjalan secara offline, sehingga tidak tergantung koneksi internet. Cocok untuk digunakan langsung di warung kecil maupun besar.
 
 
 
 
-🙌 Kontribusi
-Ingin ikut mengembangkan? Pull Request terbuka!
 
-Atau ingin menggunakan ini untuk tugas kuliah? Silakan! Jangan lupa kasih ⭐ kalau suka.
+👩‍💻 Created By
+✨ Nama: Kayla Puspita Khairiyah
+
+💻 Proyek: Aplikasi Sistem Pemesanan Makanan Digital untuk Warung Makan
+
+🛠️ Tools: Java, Swing, MySQL, NetBeans
+
+📅 Tahun: 2025
